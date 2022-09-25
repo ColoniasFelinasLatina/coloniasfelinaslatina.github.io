@@ -1,4 +1,9 @@
 ---
 label: Quienes Somos
 hide_body: false
-fields: []
+fields:
+- name: quienes_somos
+  type: text
+  config:
+    required: false
+  label: Quienes somos
