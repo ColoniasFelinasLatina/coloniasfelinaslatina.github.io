@@ -7,3 +7,5 @@ fields:
   config:
     required: false
   label: Quienes somos
+pages:
+- content/presentacion.md
